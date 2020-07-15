@@ -6,3 +6,7 @@ class Cat
     puts "meow!"
   end #meow method
 end
+
+maru.name = "Maru"
+maru.name
+maru.meow
